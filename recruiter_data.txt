@@ -1,0 +1,34 @@
+About the job
+The D. E. Shaw group is a global investment and technology development firm with more than $60 billion in investment and committed capital as of December 1, 2023, and offices in North America, Europe, and Asia. Since our founding in 1988, our firm has earned an international reputation for successful investing based on innovation, careful risk management, and the quality and depth of our staff. We have a significant presence in the world’s capital markets, investing in a wide range of companies and financial instruments in both developed and developing economies.
+
+
+We are looking for bright and exceptional programmers to join our Software Developer teams based in the firm’s offices in Hyderabad/Bengaluru/Gurugram. We have requirements across various teams that are involved in catering to the trading desk’s needs during the life cycle of a trade and in the research, design, development, and standardization of technologies for firm-wide adoption.
+
+
+WHAT YOU'LL DO DAY-TO-DAY:
+
+
+You’ll execute individual projects and deliverables while collaborating with business groups. Additionally, you’ll be responsible for projects that will include performing R&D to evaluate the appropriate technologies to use, resolving application and data issues in production within timelines, and driving complete project lifecycles, from collecting and analyzing requirements to project delivery/deployment to clients. You’ll provide direction and guidance to junior members of the team and participate actively in code and design reviews.
+
+
+WHO WE’RE LOOKING FOR:
+
+
+The candidate should have robust experience in C++/Java/Python, in addition to some or all of the following: React, Redux, RESTful Web Services, Perl, messaging middleware, and databases (SQL Server).
+Candidates having experience in Spring, Mybatis/ibatis/Hibernate, jQuery, JavaScript and deployment architecture will have an added advantage.
+The ideal candidate should have excellent problem solving and analytical skills as well as a demonstrated passion for technology.
+The candidate should have excellent reasoning ability and good interpersonal and communication skills.
+Candidates should have an inclination or prior experience in project or people management.
+
+
+Interested candidates can apply through our website: https://www.deshawindia.com/recruit/jobs/Ads/LinkedIn/AllSDApril2023
+
+
+We encourage candidates with relevant experience looking to restart their careers after a break to apply for this position. Learn about Recommence, our gender-neutral return-to-work initiative.
+
+
+The Firm offers excellent benefits, a casual, collegial working environment, and an attractive compensation package. For further information about our recruitment process, including how applicant data will be processed, please visit https://www.deshawindia.com/careers
+
+
+
+Members of the D. E. Shaw group do not discriminate in employment matters on the basis of sex, race, colour, caste, creed, religion, pregnancy, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, or any other protected class.

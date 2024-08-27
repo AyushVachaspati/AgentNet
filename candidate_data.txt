@@ -1,0 +1,57 @@
+Naman Jain jainn7194@gmail.com | 9643565395
+ EDUCATION
+GALGOTIASUNIVERSITY
+B.Tech in Computer Science
+Cum. GPA: 8.35/10.00
+LINKS
+Github:// njain794
+LinkedIn:// NamanJain Leetcode:// jainn7194 GeeksForGeeks:// namanjain41 Twitter(X):// @Naman Jain
+COURSEWORK
+Data Structures
+Algorithms
+Object-Oriented Programming Low Level Design
+SKILLS
+Programming Languages:
+C++ • JavaScript • TypeScript
+Framework:
+React.js • Next.js • OpenXML
+Miscellaneous:
+• Azure Cosmos Graph DB • NextAuth • CSS • Tailwind CSS • MySQL
+• MongoDB • D365 CRM • Power Apps • PRISMA • Redux • GIT/GITHUB •Python•Java•C#
+HACKATHON
+DEXTERIX2.0 |SocialGood Nov. 2019 | Noida
+Secured Rank 1 out of 250+ teams that participated in the theme of Social Good. Developed an application to connect people with similar interests or hobbies in a close vicinity or society to engage physically rather virtually. This application aimed to improve overall well being of society.
+EXPERIENCE
+MAQSOFTWARE |SoftwareEngineer-1 Nov 2021 – Present | Noida
+• LeadingtheFrontendandBackenddevelopment.
+• WorkingonBusinessValueManagement(BVM)Composerproductwhichis
+currently been used by Microsoft sellers to offer various MS SaaS services to
+MNC’s driven by in app USP propositions.
+• DesignedanddevelopedUIComponentsfor12+pagesusingReactJSand
+Fluent UI to facilitate and offer a seamless user experience to top leadership of
+Microsoft.
+• GotfeaturedandrecognizedinMicrosoftBuildeventin2022forcreatingan
+impact over their sales experience with the help of Composer.
+• Resolved100+cosmeticandfunctionalbugsinperiodicUATsprintcycles.
+• LeveragedAzureNoSQLdatabasesuchasAzureGraphDBonthebackendto
+construct robust and scalable backend components for different features,
+seamlessly integrating with MS Data Verse.
+• ToolsworkedonlikeOpenXMLSDK,AzureDevops,Git,VDI,VM.
+• TechnologyandframeworksusedlikeReact,Javascript,Typescript,React
+Flow, Fleunt UI, Azure Graph DB, Open XML, MYSQL, Power Automate.
+ALGOUNIVERSITY |SDEExternship Oct 2022 – April 2023 | Remote
+• BuiltanAutoGraderthatautomaticallyjudgesifgivencodeiscorrect/wrong/ inefficient.
+• ThisimpactedProf/TAsofDSAcoursewhomanuallycheckedprogramming assignment of 40+ students.
+• TechnologyusedlikeReact,Express,NodeJS,MongoDB PROJECTS
+ISSUETRACKINGAPPLICATION |FULLSTACKPROJECT Independent Project
+• DesignedanddevelopedanIssueTrackingApplicationtosimplifytheprocess of logging and tracking issues on an enterprise level.
+• Implemented real-time dashboard with Charts for users, along with features such as Forms with Client side Validation, User Auth and Access Control, Pagination, Email Notifications and much more.
+• SuccessfullydeployedtheissuetrackingapplicationonVercel,makingit accessible at https://issue-tracker-pied.vercel.app/issues/list for users to log and track issues.
+• TechnologyusedlikeNextJS/ReactJS,Typescript,PRISMA,NextAuthJS, Tailwind
+ACHIEVEMENTS
+• Solved700+DSAproblemsinLeetcodeandGFG
+• GeeksForGeeksPracticeScore:2100+(Top1%)
+University Rank: 1
+Global Rank: 656
+• RecognizedasChampionofQuarter(Oct22-Dec22)byMAQSoftware
+
