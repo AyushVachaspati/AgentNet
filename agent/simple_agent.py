@@ -29,7 +29,7 @@ def create_agent(system_prompt, datafile, address, port):
             "description": "Send message to talk to other agents on AgentNet.\n"
                            "This is the primary function to be used to complete tasks assigned to the agent.\n"
                            "This function can also be used to respond to messages from other agents on AgentNet.\n"
-                           "Only call this function one time per",
+                           "Only call this function one time per turn.",
             "parameters": {
                 "type": "object",
                 "properties": {
@@ -40,7 +40,24 @@ def create_agent(system_prompt, datafile, address, port):
                 },
                 "required": ["message"],
             },
-        }
+        },
+        "type": "function",
+        "function": {
+            "name": "stop_conversation",
+            "description": "Stop conversation with other agents on the network and provide final result of the conversation.\n"
+                           "Use this function to conclude or stop the current conversation.\n"
+                           "Only call this function one time at the end of the conversation. Do not call send_message function along with this function.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "result": {
+                        "type": "string",
+                        "description": "Final Result of the conversation.",
+                    },
+                },
+                "required": ["result"],
+            },
+        },
         }]
 
     agent["messages"].append(system_message)
@@ -53,12 +70,17 @@ def run_agent(agent):
     response = call_openAI(agent)
 
     func_args = json.loads(response.choices[0].message.tool_calls[0].function.arguments)
-    func = response.choices[0].message.tool_calls[0].function.name
+    func_name = response.choices[0].message.tool_calls[0].function.name
     # print(f"Calling function {func} with {func_args['message']}")
-    func = getattr(agentnet_api, func)
+    func = getattr(agentnet_api, func_name)
 
     ## arguments are hard coded here and not dependent on which function is called. Right now just assuming that send message is the only function that can be called
-    func(func_args['message'], agent["address"],agent)
+    if(func_name == 'send_message'):
+        func(func_args['message'], agent["address"],agent)
+    elif(func_name == 'stop_conversation'):
+        func(func_args['result'])
+    else:
+        print(f"FUNCTION NOT RECOGNIZED {func_name}")
 
 
 
